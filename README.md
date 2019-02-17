@@ -39,4 +39,4 @@ During the training, you will cover the following topics:
 
 ## How do I get help or clear my queries?
 
-To asks questions or give feedback, you can mail [GirlScript Noida](girlscriptnoida@gmail.com) or [GirlScript Ghaziabad](gscriptghaziabad@gmail.com). 
+To asks questions or give feedback, you can mail girlscriptnoida@gmail.com or gscriptghaziabad@gmail.com. 
