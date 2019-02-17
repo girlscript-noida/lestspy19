@@ -1,6 +1,6 @@
 # Welcome to LetsPy India Tour 2019 🚩
 
-![GirlScript Noida and Ghaziabad Chapter Leads Collaboration](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD6_yf5sLgAhUaEnIKHRnOC5wQjRx6BAgBEAU&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fgirlscript-foundation&psig=AOvVaw2ZtQsA86CW5-hhr4YJ4tIB&ust=1550493939120445)
+![GirlScript Noida and Ghaziabad Chapter Leads Collaboration]()
 
 
 This README gives an insight on LetsPy 2-days Paid Python Programming Bootcamp. By participating in the LetsPy Meetup, you will learn and connect with great developers and professionals around you.
