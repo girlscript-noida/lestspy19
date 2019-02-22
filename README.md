@@ -49,7 +49,7 @@ TBD
 
 ## What are the perks for attendees? 😜
 - Attendee Kit 💼
-- Softwares and Presentations 📅
+- Presentations 📅
 - Brunch 🍕
 - T-Shirt and swags 👕
 - Learn Python from scratch 😍
