@@ -20,7 +20,7 @@ Venue: Accurate Institute of Management and Technology, Greater Noida 🏫
 
 To attend the bootcamp, you must complete the following stages:
 
-1.  Complete the [Registeration form](http://bit.ly/LetsPy19Form) 👨🏿‍🏫.
+1.  Complete the [Registration form](http://bit.ly/LetsPy19Form) 👨🏿‍🏫.
 2.  Submit ₹1000 for the bootcamp 📝.
 3.  Receive a confirmation mail 💬.
 4. Join us at the event and learn from the best and join the community ✅.
@@ -57,4 +57,4 @@ TBD
 
 ## How do I get help or clear my queries? 📢 📧
 
-To asks questions or give feedback, you can mail girlscriptnoida@gmail.com or gscriptghaziabad@gmail.com. 
+To asks questions or give feedback, you can mail girlscript.noida@gmail.com or gscriptghaziabad@gmail.com. 
