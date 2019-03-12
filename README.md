@@ -54,7 +54,7 @@ TBD
 - Brunch 🍕
 - T-Shirt and swags 👕
 - Learn Python from scratch 😍
-- Make connections 👧🧑👩‍🏫👨‍🏫
+- Make connections 👧🧑
 
 ## How do I get help or clear my queries? 📢 📧
 
