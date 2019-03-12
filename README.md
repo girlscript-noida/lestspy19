@@ -14,13 +14,13 @@ Date: 6-7 April 2019 📅
 </br>
 Timings: 10:00 a.m. - 04:00 p.m. IST 🕙
 </br>
-Venue: Accurate Institute of Management and Technology, Greater Noida 🏫
+Venue: TBD (Know any location in Noida, connect with us) 🏫
 
 ## How do I attend the LetsPy Bootcamp? 🙋🏽‍
 
 To attend the bootcamp, you must complete the following stages:
 
-1.  Complete the [Registration form](http://bit.ly/LetsPy19Form) 👨🏿‍🏫.
+1.  Complete the [Registration form](https://www.letspy.tech/registration-page/) 👨🏿‍🏫.
 2.  Submit ₹1000 for the bootcamp 📝.
 3.  Receive a confirmation mail 💬.
 4. Join us at the event and learn from the best and join the community ✅.
@@ -43,6 +43,7 @@ During the training, you will cover the following topics:
 - Python in Data Science
 - Python for Cloud
 - Machine Learning with Python
+- Applications of Python in industry
 
 ## Who are the speakers? 💖
 TBD
