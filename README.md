@@ -62,8 +62,8 @@ To asks questions or give feedback, you can mail girlscript.noida@gmail.com or g
 
 ## How  do I stay updated with new announcements? 📢
 
-Via Twitter: [Twitter Noida] (https://www.twitter.com/girlscriptnoida) | [Twitter Ghaziabad] (https://www.twitter.com/gscriptGZB)
+Via Twitter: [Twitter Noida](https://www.twitter.com/girlscriptnoida) | [Twitter Ghaziabad](https://www.twitter.com/gscriptGZB)
 </br>
-Via Facebook: [Facebook Noida] (https://www.facebook.com/girlscriptnoida) | [Facebook Ghaziabad] (https://www.facebook.com/GScriptGhaziabad/)
+Via Facebook: [Facebook Noida](https://www.facebook.com/girlscriptnoida) | [Facebook Ghaziabad](https://www.facebook.com/GScriptGhaziabad/)
 </br>
-Via Instagram: [Instagram Noida] (https://www.instagram.com/girlscriptnoida) | [Instagram Ghaziabad] (https://www.instagram.com/girlscriptghaziabad)
+Via Instagram: [Instagram Noida](https://www.instagram.com/girlscriptnoida) | [Instagram Ghaziabad](https://www.instagram.com/girlscriptghaziabad)
