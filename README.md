@@ -56,6 +56,14 @@ TBD
 - Learn Python from scratch 😍
 - Make connections 👧🧑
 
-## How do I get help or clear my queries? 📢 📧
+## How do I get help or clear my queries? 📧
 
 To asks questions or give feedback, you can mail girlscript.noida@gmail.com or gscriptghaziabad@gmail.com. 
+
+## How  do I stay updated with new announcements? 📢
+
+Via Twitter: [Twitter Noida] (https://www.twitter.com/girlscriptnoida) | [Twitter Ghaziabad] (https://www.twitter.com/gscriptGZB)
+</br>
+Via Facebook: [Facebook Noida] (https://www.facebook.com/girlscriptnoida) | [Facebook Ghaziabad] (https://www.facebook.com/GScriptGhaziabad/)
+</br>
+Via Instagram: [Instagram Noida] (https://www.instagram.com/girlscriptnoida) | [Instagram Ghaziabad] (https://www.instagram.com/girlscriptghaziabad)
