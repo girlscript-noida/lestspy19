@@ -12,7 +12,7 @@ People learn better when they can learn with a community of likeminded peers. Le
 ## When and where? 👀
 Date: 6-7 April 2019 📅
 </br>
-Timings: 10:00 a.m. - 04:00 p.m. IST 🕙
+Timings: 10:00 AM - 04:00 PM IST 🕙
 </br>
 Venue: TBD (Know any location in Noida, connect with us) 🏫
 
@@ -23,7 +23,7 @@ To attend the bootcamp, you must complete the following stages:
 1.  Complete the [Registration form](https://rzp.io/l/letspynoida) 👨🏿‍🏫.
 2.  Submit ₹1000 for the bootcamp 📝.
 3.  Receive a confirmation mail 💬.
-4. Join us at the event and learn from the best and join the community ✅.
+4.  Join us at the event and learn from the best and join the community ✅.
 
 ## Do I need to have prior knowledge about Python Programming? 🤞
 
