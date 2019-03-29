@@ -1,8 +1,5 @@
 # Welcome to LetsPy India Tour 2019 🚩
 
-![GirlScript Noida and Ghaziabad Chapter Leads Collaboration](https://user-images.githubusercontent.com/47632017/52913428-20754780-32e4-11e9-89fe-2b4eb20202d3.png)
-
-
 This README gives an insight on LetsPy 2-days Paid Python Programming Bootcamp. By participating in the LetsPy India Tour 2019, you will learn and connect with great developers and professionals around you.
 
 ## What is [LetsPy](https://www.letspy.tech/)? 🤔
@@ -12,7 +9,7 @@ People learn better when they can learn with a community of likeminded peers. Le
 ## When and where? 👀
 Date: 6-7 April 2019 📅
 </br>
-Timings: 10:00 AM - 04:00 PM IST 🕙
+Timing: 10:00 AM - 04:00 PM IST 🕙
 </br>
 Venue: [91springboard, Sector 1, Noida](https://maps.app.goo.gl/Ew5wK) 🏫
 
