@@ -14,20 +14,20 @@ Date: 6-7 April 2019 📅
 </br>
 Timings: 10:00 AM - 04:00 PM IST 🕙
 </br>
-Venue: TBD (Know any location in Noida, connect with us) 🏫
+Venue: [91springboard, Sector 1, Noida](https://maps.app.goo.gl/Ew5wK) 🏫
 
 ## How do I attend the LetsPy Bootcamp? 🙋🏽‍
 
 To attend the bootcamp, you must complete the following stages:
 
 1.  Complete the [Registration form](https://rzp.io/l/letspynoida) 👨🏿‍🏫.
-2.  Submit ₹1000 for the bootcamp 📝.
+2.  Submit ₹599 for the bootcamp 📝.
 3.  Receive a confirmation mail 💬.
 4.  Join us at the event and learn from the best and join the community ✅.
 
 ## Do I need to have prior knowledge about Python Programming? 🤞
 
-Bootcamp is about learning from scratch to advance level, not becoming a Python master. You can learn everything you need by attending the offline Python Programming Bootcamp.
+Bootcamp is about learning from scratch to advance level, not becoming a Python master. You can learn everything you need by attending the offline Python Programming Bootcamp. See you there!
 
 ## What are the topics that will be covered during the training? 🤷‍♂️
 
