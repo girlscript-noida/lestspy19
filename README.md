@@ -17,7 +17,7 @@ Venue: [91springboard, Sector 1, Noida](https://maps.app.goo.gl/Ew5wK) 🏫
 
 To attend the bootcamp, you must complete the following stages:
 
-1.  Complete the [Registration form](https://rzp.io/l/letspynoida) 👨🏿‍🏫.
+1.  Complete the [Registration form](https://www.letspy.tech/letspy-noida/) 👨🏿‍🏫.
 2.  Submit ₹599 for the bootcamp 📝.
 3.  Receive a confirmation mail 💬.
 4.  Join us at the event and learn from the best and join the community ✅.
@@ -43,7 +43,12 @@ During the training, you will cover the following topics:
 - Applications of Python in industry
 
 ## Who are the speakers? 💖
-TBD
+- [Atin Gupta]()
+- [Rishabh Jain]()
+- [Vishal Punj]()
+- [Mayank Tripathi]()
+- [Khushboo Verma]()
+- [Shilpa Garg]()
 
 ## What are the perks for attendees? 😜
 - Attendee Kit including certificates and much more 💼
