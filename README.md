@@ -43,7 +43,7 @@ During the training, you will cover the following topics:
 - Applications of Python in industry
 
 ## Who are the speakers? 💖
-- [Atin Gupta]()
+- [Atin Gupta](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/atin-gupta.md)
 - [Rishabh Jain]()
 - [Vishal Punj]()
 - [Mayank Tripathi]()
