@@ -14,5 +14,4 @@
 - Basics of Python
 - Python Objects and Data Structure
 - Python Operators and Statements
-</br>
-[Link to presentations](https://drive.google.com/open?id=1fYiAi1CpaHa0e2JJT1C--WPkfoQEYt4g)
+</br> [Link to presentations](https://drive.google.com/open?id=1fYiAi1CpaHa0e2JJT1C--WPkfoQEYt4g)
