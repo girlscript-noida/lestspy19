@@ -10,7 +10,7 @@
 
 ## Topics Covered:
 
-- Object Oriented Python
+- Methods and Functions
 - Modules and Packages in Python
 
 </br> [Link to presentations](https://drive.google.com/open?id=14mrY_jpFbjw4ag9qYijZEOAGwKJ2QVtp)
