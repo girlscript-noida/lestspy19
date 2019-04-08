@@ -55,7 +55,7 @@ During the training, you will cover the following topics:
 - Presentations 📅
 - Brunch 🍕
 - T-Shirt and swags 👕
-- Learn Python from scratch 😍
+- Learn Python from scratch😍
 - Make connections 👧🧑
 
 ## How do I get help or clear my queries? 📧
