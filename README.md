@@ -44,11 +44,11 @@ During the training, you will cover the following topics:
 
 ## Who are the speakers? 💖
 - [Atin Gupta](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/atin-gupta.md)
-- [Rishabh Jain]()
+- [Rishabh Jain](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/rishabh-jain.md)
 - [Vishal Punj](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/vishal-punj.md)
-- [Mayank Tripathi]()
-- [Khushboo Verma]()
-- [Shilpa Garg]()
+- [Mayank Tripathi](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/mayank-tripathi.md)
+- [Khushboo Verma](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/khushboo-verma.md)
+- [Shilpa Garg](https://github.com/girlscript-noida/lestspy19/blob/master/Speakers/shilpa-garg.md)
 
 ## What are the perks for attendees? 😜
 - Attendee Kit including certificates and much more 💼
